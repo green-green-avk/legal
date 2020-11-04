@@ -8,13 +8,15 @@ Privacy Policy
    such as:
     * **aggregated statistics** of number of
       users / devices / installs / uninstalls
-      by time period / country / device model etc.;
+      by time period / country / device model etc. by date;
     * **crash reports** with such information as
-      number of crashes of the same type /
+      approximate date and time of a crash /
+      the number of crashes of the same type /
       device model and its hardware features /
       country /
-      stack trace with function names and
-      source code lines but **WITHOUT ANY DATA
+      the stack trace with function names
+      and source code line numbers
+      but **WITHOUT ANY DATA
       (like values of arguments or variables)**.
 
 3. As long as it is an Android application, be aware of other parties that can collect something.
