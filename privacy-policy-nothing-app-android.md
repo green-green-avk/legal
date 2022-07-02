@@ -1,7 +1,9 @@
 Privacy Policy
 ==============
 
-1. We collect nothing.
+1. We collect nothing:
+    * The only information we can know is what you voluntarily provide us with (via e-mail and in similar ways).
+    * We share nothing except the cases of legal law enforcement actions (we are in the US, so it should not be a problem).
 
 2. We have access to some information about
    this application usage collected by Google,
@@ -19,7 +21,7 @@ Privacy Policy
       but **WITHOUT ANY DATA
       (like values of arguments or variables)**.
 
-3. There are other parties that can collect you data.
+3. There are other parties that can collect your data.
    Some of them:
     * Google - <https://policies.google.com/privacy>;
     * your device vendor;
