@@ -2,8 +2,8 @@ Privacy Policy
 ==============
 
 1. We collect nothing:
-    * The only information we can know is what you voluntarily provide us with (via e-mail and in similar ways).
-    * We share nothing except the cases of legal law enforcement actions (we are in the US, so it should not be a problem).
+    * the only information we can know is what you voluntarily provide us with (via e-mail and in similar ways);
+    * we share nothing except the cases of legal law enforcement actions (we are in the US, so it should not be a problem).
 
 2. We have access to some information about
    this application usage collected by Google,
