@@ -11,7 +11,7 @@ Privacy Policy
     * **aggregated statistics** of number of
       users / devices / installs / uninstalls
       by time period / country / device model etc.;
-    * **crash reports** with such information as
+    * **anonymous crash reports** with such information as
       approximate date and time of a crash /
       the number of crashes of the same type /
       device model and its hardware features /
